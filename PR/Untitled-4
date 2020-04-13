@@ -1,0 +1,6 @@
+KASIR:
+1. INPUT PESANAN
+2. BAYAR PESANAN
+    a. Dua Thread
+        print Struk (make struk.txt)
+        data to backend
