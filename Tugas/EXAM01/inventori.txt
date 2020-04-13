@@ -1,0 +1,11 @@
+1/nasi/90
+2/garem/80
+3/bawang/80
+4/sosis/80
+5/Garem/10
+6/Gula/20
+7/pisang/10
+8/Bawang/90
+9/bumbu/99
+10/Jagung/20
+11/asd/200

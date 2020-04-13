@@ -1,0 +1,4 @@
+1/nasi goreng/20000/nasi,garem
+2/nasi goreng gila/20000/nasi,garem,sosis
+3/Nasi Goreng Asoy/20000/nasi,jinten
+4/makanan/2000/jinten,makan

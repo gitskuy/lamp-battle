@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="bcel-6.4">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../LIBRARIES/bcel-6.4.1" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://$PROJECT_DIR$/../../LIBRARIES/bcel-6.4.1/apidocs" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../LIBRARIES/bcel-6.4.1/src/examples" />
+      <root url="file://$PROJECT_DIR$/../../LIBRARIES/bcel-6.4.1" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../../LIBRARIES/bcel-6.4.1" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../LIBRARIES/bcel-6.4.1" recursive="false" type="SOURCES" />
+  </library>
+</component>
